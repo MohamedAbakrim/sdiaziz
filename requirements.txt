@@ -4,7 +4,6 @@ pymongo
 pandas
 reportlab
 matplotlib
-base64
 jinja2
 seaborn
 
