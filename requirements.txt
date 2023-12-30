@@ -1,10 +1,9 @@
-Flask
+Flask Jinja2
 gunicorn
 pymongo
 pandas
 reportlab
 matplotlib
-jinja2
 seaborn
 
 
