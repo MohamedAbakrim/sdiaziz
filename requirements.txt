@@ -3,6 +3,11 @@ gunicorn
 pymongo
 pandas
 reportlab
+io
+matplotlib
+base64
+jinja2
+seaborn
 
 
 
